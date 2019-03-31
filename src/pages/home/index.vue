@@ -1,3 +1,3 @@
 <template>
-    <div>我的</div>
+    <div>主页</div>
 </template>
